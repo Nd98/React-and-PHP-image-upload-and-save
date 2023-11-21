@@ -3,6 +3,7 @@ import {StyleSheet, Text, View, Image, TouchableOpacity} from 'react-native';
 import ImagePicker from 'react-native-image-picker';
 
 
+
 const options = {
   title: 'Select Avatar',
   
